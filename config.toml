@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://fishmonger-tortoise-77224.netlify.com/"
 title = "Tracks"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
