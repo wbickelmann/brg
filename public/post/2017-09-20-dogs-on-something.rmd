@@ -1,0 +1,12 @@
+---
+title: Dogs On Something
+author: William Taylor
+date: '2017-09-20'
+slug: dogs-on-something
+categories:
+  - R
+tags: []
+image : "img/portfolio/kaleidoscope.png"
+---
+
+Have you ever wondered what a dog would be like on a recreational substance? I have. Anyways here is a picture that you may find cute or that may haunt your dreams

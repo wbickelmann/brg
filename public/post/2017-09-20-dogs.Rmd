@@ -1,0 +1,13 @@
+---
+title: Dogs
+author: William Taylor
+date: '2017-09-20'
+slug: dogs
+categories: []
+tags: []
+image: "/img/about.jpg"
+---
+![Dogs](/img/portfolio/kalelidoscope.png)
+
+Dogs on drugs
+
